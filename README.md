@@ -14,3 +14,7 @@ This project aims to predict customer churn using machine learning algorithms. C
 **Random Forest Classifier**: Random Forest is an ensemble learning method that uses multiple decision trees to improve the predictive performance.
 <br>
 **Gradient Boosting Classifier**: Gradient Boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees.
+<br>
+<br>
+**Data**
+The dataset used for this project contains [ CustomerID, Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, Number of product, Is active member, Exited ]. It was preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
